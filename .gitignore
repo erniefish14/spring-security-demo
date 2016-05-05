@@ -1,1 +1,7 @@
+local.properties
+.classpath
+.settings/
+.project
+.springbeans
 /target/
+/manifest.txt
